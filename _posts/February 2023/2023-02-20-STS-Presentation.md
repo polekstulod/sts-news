@@ -6,7 +6,7 @@ date: 2023-02-20
 # Google MusicLM: Revolutionizing the Music Industry with Language Models
 
 <figure>
-  <img src="https://technology.inquirer.net/files/2023/01/MusicLM-logll.com_-620x382.png" alt="google musiclm ai robots" loading="lazy">
+  <img src="https://logll.com/wp-content/uploads/2023/01/Google-Introduces-MusicLM-1024x683.png" alt="google musiclm ai robots" loading="lazy">
   <figcaption>
     AI Robots playing music in front of Google.
   </figcaption>
